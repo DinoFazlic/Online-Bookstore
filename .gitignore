@@ -5,3 +5,4 @@ node_module/
 logs
 *.log
 npm-debug.log*
+/public/
